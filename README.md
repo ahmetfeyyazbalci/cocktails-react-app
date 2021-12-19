@@ -1,11 +1,22 @@
-#### React Router Fix
 
-(Fix)[https://dev.to/dance2die/page-not-found-on-netlify-with-react-router-58mc]
+You can visit website from [here](https://cocktailrestaurant.netlify.app/)
 
-#### CRA Fix
 
+### Installation
+___
+**Clone the project**
+```
+ https://github.com/ahmetfuatbalci/cocktails-react-app
 ```
 
-"build": "CI= react-scripts build",
 
-```
+### Usage
+___
+<dl>
+  <dt>Visual code terminal write this code</dt>
+  <dd>npm install</dd>
+
+  <dt>Then open the console and run the following command</dt>
+  <dd>npm start</dd>
+</dl>
+
