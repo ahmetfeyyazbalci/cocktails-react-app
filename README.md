@@ -6,7 +6,7 @@ You can visit website from [here](https://cocktailrestaurant.netlify.app/)
 ___
 **Clone the project**
 ```
- https://github.com/ahmetfuatbalci/cocktails-react-app
+ https://github.com/ahmetfeyyazbalci/cocktails-react-app
 ```
 
 
